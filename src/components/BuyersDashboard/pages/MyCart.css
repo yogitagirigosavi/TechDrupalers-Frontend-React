@@ -1,0 +1,78 @@
+.mycarts-pagetitle h2{
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+
+  #mycart-table{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 20px;
+  
+  }
+  
+  #mycart-table thead tr{
+    background-color: #0F52BA;
+    color: white;
+  }
+  
+  #mycart-table thead tr td{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  
+  }
+  
+  #mycart-table tbody tr td{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+  
+  #mycart-table tbody tr td input[type=text]{
+    font-size: 18px;
+    padding-left: 5px;
+    height: 25px;
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  #mycart-table tbody tr td input[type=submit]{
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+  #mycart-table tbody tr:hover {background-color: #D3D3D3;}
+
+  .update-checkout-buttons{
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+
+  .update-checkout-buttons input[type=submit]{ 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 18px;
+    margin-right: 40px;
+  }
+
+  .mycart-search{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+  }

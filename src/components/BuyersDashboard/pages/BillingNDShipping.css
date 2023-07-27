@@ -1,0 +1,57 @@
+.order-summery h2{
+    font-size: 40px;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+#order-summary-table{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 100%;
+}
+
+#order-summary-table thead tr{
+    background-color: #0F52BA;
+    color: white;
+}
+
+#order-summary-table thead tr td{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#order-summary-table tbody tr td{
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#order-summery-table tfoot tr td{
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#order-summary-table tbody tr:hover {background-color: #D3D3D3;}
+
+.complete-checkout-back-button{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.complete-checkout-back-button input[type=submit]
+{
+    font-size: 18px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 50px;
+}

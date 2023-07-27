@@ -1,0 +1,56 @@
+.edit-product-pagetitle h2{
+    font-size: 40px;
+    padding-left: 550px;
+    padding-top: 20px;
+  }
+
+  .edit-product-form .tabs button{
+    font-size: 18px;
+    padding-left: 51px;
+    padding-right: 51px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+  }
+
+  .edit-product-form .tabs button:hover{
+    background-color: #D3D3D3;
+  }
+
+  .edit-product-form .tab-content-1{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+
+  .edit-product-form .tab-content-1 .category-select{
+    margin-top: 10px;
+  }
+
+  .edit-product-form .tab-content-2{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+
+  .edit-product-form .tab-content-3{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+
+  .edit-product-form .tab-content-4{
+    margin-top: 50px;
+    font-size: 20px;
+  }
+
+  .edit-product-form .tab-content-4 .select-certification{
+    margin-top: 10px;
+  }
+
+  .edit-product-form .tab-content-4 input[type=checkbox]{
+    margin-left: 20px;
+  }
+
+  .edit-product-form .tab-content-4 .add-vendors{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+  }

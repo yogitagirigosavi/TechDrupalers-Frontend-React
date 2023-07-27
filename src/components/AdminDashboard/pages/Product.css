@@ -1,0 +1,52 @@
+.product-details-pagetitle h2{
+    font-size: 40px;
+    padding-left: 300px;
+    padding-top: 20px;
+  }
+
+
+.product-details{
+
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.product-details tr td{
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.product-details tr td h4{
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.product-details tr td p{
+  font-size: 18px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.edit-remove-buttons{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.edit-remove-buttons tr td{
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.edit-remove-buttons tr td input[type=submit]{
+  font-size: 20px;
+  margin-left: 30px;
+  margin-right: 230px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+

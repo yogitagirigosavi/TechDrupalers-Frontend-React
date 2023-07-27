@@ -1,0 +1,21 @@
+.profile-page-title h2{
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.profile-details{
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+.profile-details tr td{
+
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+

@@ -1,0 +1,65 @@
+.updated-rates-pagetitle h2{
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+
+  #updated-rate-table{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
+  #updated-rate-table thead tr{
+    background-color: #0F52BA;
+    color: white;
+  }
+  
+  #updated-rate-table thead tr td{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  
+  }
+  
+  #updated-rate-table tbody tr td{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+
+  #updated-rate-table tbody tr td input[type=text]{
+    font-size: 18px;
+    padding-left: 5px;
+    height: 25px;
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  #updated-rate-table tbody tr td input[type=submit]{
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+#updated-rate-table tbody tr:hover {background-color: #D3D3D3;}
+
+
+.updated-rate-search{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid black;
+}
+

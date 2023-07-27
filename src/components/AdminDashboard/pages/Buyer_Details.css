@@ -1,0 +1,52 @@
+.buyer_details-pagetitle h2{
+    font-size: 40px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.buyer_details{
+
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  
+  .buyer_details tr td{
+  
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .buyer_details tr td h4{
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .buyer_details tr td p{
+    font-size: 18px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .edit-remove-buttons-buyers{
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  
+  .edit-remove-buttons-buyers tr td{
+  
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .edit-remove-buttons-buyers tr td input[type=submit]{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 230px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  

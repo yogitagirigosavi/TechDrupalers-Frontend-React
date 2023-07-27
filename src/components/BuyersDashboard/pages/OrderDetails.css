@@ -1,0 +1,86 @@
+.buyer-order-details-pagetitle h2{
+  font-size: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#buyer-order-details-table{
+  font-size: 18px;
+  margin-top: 50px;
+  margin-left: 20px;
+
+}
+
+#buyer-order-details-table thead tr{
+  background-color: #0F52BA;
+  color: white;
+}
+
+#buyer-order-details-table thead tr td{
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+}
+
+#buyer-order-details-table tbody tr td{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+#buyer-order-details-table tbody tr td .buyer-view_details-button{
+  font-size: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#buyer-order-details-table tbody tr td .add-to-cart-button{
+  font-size: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#buyer-order-details-table tbody tr td .add-to-wishlist-button{
+  font-size: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#buyer-order-details-table tbody tr:hover {background-color: #D3D3D3;}
+
+.buyer-order-details-search{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid black;
+}
+
+.total-price{
+  margin-left: 550px;
+  margin-top: 80px;
+}
+
+.total-price h6{
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.total-price label{
+  font-size: 18px;
+}

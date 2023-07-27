@@ -1,0 +1,30 @@
+.admin-dashboard-footer{
+    width: 1750px;
+    height: 120px;
+    background-color: #0F52BA;
+    color: #fff;
+}
+
+.admin-dashboard-footer .admin-dashboard-footer-copyright h2{
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.admin-dashboard-footer .admin-dashboard-footer-socialsites{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    padding-left: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.admin-dashboard-footer .admin-dashboard-footer-socialsites .icon:hover{
+    font-size: 25px;
+}
+
+

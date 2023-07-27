@@ -1,0 +1,22 @@
+.admin-dashboard-header{
+    background-color: #0F52BA;
+    width: 1750px;
+    height: 70px;
+    color:#fff;
+    display: flex;
+}
+
+.admin-dashboard-header .admin-dashboard-header-sitelogo h1{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.admin-dashboard-header .admin-dashboard-header-tabs{
+    display: flex;
+    gap: 20px;
+    padding-left: 1250px;
+    font-size: 25px;
+    padding-top: 20px;
+    cursor: pointer;
+}

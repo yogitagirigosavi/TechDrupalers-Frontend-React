@@ -1,0 +1,57 @@
+.invoices-pagetitle h2{
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+
+  #invoices-table{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
+  #invoices-table thead tr{
+    background-color: #0F52BA;
+    color: white;
+  }
+  
+  #invoices-table thead tr td{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  
+  }
+  
+  #invoices-table tbody tr td{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+
+  #invoices-table tbody tr td input[type=submit]{
+    font-size: 16px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  
+  
+#invoices-table tbody tr:hover {background-color: #D3D3D3;}
+
+.invoices-search{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid black;
+}

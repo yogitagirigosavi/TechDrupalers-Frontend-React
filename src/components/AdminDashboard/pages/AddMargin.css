@@ -1,0 +1,33 @@
+.add-margin-pagetitle h2{
+    font-size: 40px;
+    padding-left: 600px;
+    padding-top: 20px;
+}
+
+
+.add-margin-form{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.add-margin-form label{
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.add-margin-form input[type=submit]{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: #0F52BA;
+    color: #fff;
+    border: none;
+}
+
+.add-margin-form input[type=submit]:hover{
+    box-shadow: 0 30px 30px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
